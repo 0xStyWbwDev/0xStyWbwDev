@@ -15,7 +15,7 @@
 
 </div>
 
-<i>© Setyo Wibowo ID - 20222
+<i>© Setyo Wibowo ID - 2022
 
 ---
 
